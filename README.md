@@ -4,9 +4,9 @@
 * python3.6
 * windows10
 * Pycharm
-* tornado做服务
+* tornado4.5.3 做服务
 ## From PyPi directly
-pip install tornado
+pip install tornado=4.5.3
 
 ## Example
 #### 请求访问：
